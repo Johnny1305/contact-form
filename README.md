@@ -3,11 +3,10 @@
 Contact-form project: Tech lead overview "Build contact form using Express, body-parser, cors, dotenv, and nodemailer. Secure user input, ensure reliable email delivery."
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/Johnny1305/contact-form "Language"" alt=" Language" />
-  <img src="https://img.shields.io/github/stars/Johnny1305/contact-form "Stars"" alt=" Stars" />
-  <img src="https://img.shields.io/github/issues-pr/Johnny1305/contact-form "Pull Requests"" alt=" Pull Requests" />
-  <img src="https://img.shields.io/github/issues/Johnny1305/contact-form "Issues"" alt=" Issues" />
-  <img src="https://img.shields.io/github/contributors/Johnny1305/contact-form "Contributors"" alt=" Contributors" />
+  <img src="https://img.shields.io/github/languages/top/Johnny1305/contact-form"Language"" alt=" Language" />
+  <img src="https://img.shields.io/github/stars/Johnny1305/contact-form"Stars"" alt=" Stars" />
+  <img src="https://img.shields.io/github/issues-pr/Johnny1305/contact-form"Pull Requests"" alt=" Pull Requests" />
+  <img src="https://img.shields.io/github/issues/Johnny1305/contact-form"Issues"" alt=" Issues" />
   <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white "HTML5"" alt=" HTML5" />
   <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white "CSS3"" alt=" CSS3" />
 </p>
